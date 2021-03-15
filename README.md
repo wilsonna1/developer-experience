@@ -7,5 +7,3 @@
 * I used JavaScript to build an [online “Bop it!” game](https://bopthat.herokuapp.com/game) that lets you play & compare scores with people around the world. I composed the soundtrack for it as well :D
 * I’ve created [resources](https://github.com/wilsonna1/ttrpg-resources) for use in virtual TTRPGs, specifically [Foundry VTT](https://foundryvtt.com/) and [5eTools](https://5e.tools/).
 * I built an awesome [calculator Chrome extension](https://drive.google.com/file/d/1JM1_pDK73Zyd1hE2puq1gGCEYej1L9qn/view?usp=sharing) using the Desmos API (and I use it on a daily basis!)
-
-But one fact ensures the success of Open Doors more than anything else: my own dating life depends on this.
